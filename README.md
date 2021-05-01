@@ -1,1 +1,1 @@
-# sample
+These are some sample projects.
